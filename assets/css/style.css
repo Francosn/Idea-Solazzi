@@ -1,0 +1,136 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.SomosOmega{
+    background-color: black;
+    color: green;
+    text-align: center;
+    display: block;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.navegador{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    display: flex;
+}
+.opciones1{
+    color: white;
+    font-size: large;
+    text-align: center;
+}
+.imagen{
+    background-color: black;
+   
+
+}
+p {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: large;
+}
+.DondeEstamos{
+    background-color: black;
+    color: green;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.opcionesD{
+    color: white;
+    font-size: large;
+    text-align: center;
+    background-color: black;
+}
+.mapa{
+    height: 300px;
+    width: 300px;
+    background-color: black;
+
+}
+.fondo{
+    background-color: black;
+
+}
+.viandas{
+    height: 300px;
+    width: 300px;
+    background-color: black;
+}
+.NuestrasViandas{
+    background-color: black;
+    color: green;
+    height: 80px;
+    width: 500px;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+.opcionesN{
+    background-color: black;
+    color: white;
+    font-size: large;
+    text-align: center;
+}
+.viandasv{
+    background-color: black;
+    color: white;
+    height: 80px;
+    width: 500px;
+    text-align: left;
+}
+.tipoviandas{
+    text-align: center; 
+}
+.viandasc{
+    background-color: black;
+    color: white;
+    height: 80px;
+    width: 500px;
+    text-align: left;
+}
+.QuienesSomos{
+    background-color: black;
+    color: green;
+    height: 80px;
+    width: 500px;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.opcionesQ{
+    background-color: black;
+    color: white;
+    font-size: large;
+    text-align: center;
+}
+.local{
+    height: 400px;
+    width: 400px;
+    background-color: black;
+}
+.Contacto{
+    background-color: black;
+    color: green;
+    height: 80px;
+    width: 500px;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.opcionesC{
+    background-color: black;
+    color: white;
+    font-size: large;
+    text-align: center;
+
+}
+#Formulario{
+    background-color: black;
+    color: white;
+    height: 80px;
+    width: 500px;
+    text-align: left;
+}
+.nav ol li{
+    list-style: none;
+    justify-content: space-between;
+}
